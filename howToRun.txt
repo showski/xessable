@@ -1,0 +1,5 @@
+To Run Test:
+
+1. Import Maven Project
+2. Navigate to project via CMD
+3. Type -> "mvn clean verify"
